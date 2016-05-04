@@ -1,0 +1,21 @@
+100 - Hosted on Heroku (Required)
+100 - Custom domain name (Required)
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammer, overall project polish)
+ 
+300 - 4 complete HTML pages with content
+	--Index, About, Projects, Contact
+
+200 - Custom CSS or Bootstrap for design (all pages)
+	--Twitter Bootstrap was used on all pages, with minor custom CSS changes made here and there for alignment purposes
+
+50 - Use at least two custom images (original photography or illustration) 
+	--Background on About page, and picture of self on Contact page
+
+50 - Integrate a JavaScript component	
+	--Location specific time on the bottom of the jumbotron element on the Index page
+
+50 - Integrate non-Heroku 3rd party widget	
+	--Current time on the contact page
+
+50 - Use a 3rd party font icon like FontAwesome	
+	--Images on navbar
